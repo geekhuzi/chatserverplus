@@ -1,0 +1,8 @@
+2025-02-18 18:26:26 program begins
+2025-02-18 18:27:15 2025-02-18 18:27:15 new connection(fd=14,ip=127.0.0.1,port=59656) ok.
+2025-02-18 18:27:19 mysql connect success
+2025-02-18 18:27:19 mysql connect success
+2025-02-18 18:27:19 mysql connect success
+2025-02-18 18:27:19 mysql connect success
+2025-02-18 18:27:19 mysql connect success
+2025-02-18 18:28:13 program begins
